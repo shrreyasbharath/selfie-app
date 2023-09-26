@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(30, 235, 156);
+}
+
+.layertext{
+color: rgb(0, 0, 0);
+font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.smalltxt{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+.form-group{
+    padding: 50px;
+    border-color: black;
+    border-style:dotted;
+   
+}
+.form-group:hover{
+    padding: 65px;
+    border-color: black;
+    border-style:dashed;
+
+   
+}
+.insr{
+    color: brown;
+    -webkit-text-stroke: 0.5px;
+}
+
+#logo{
+    width:75px
+}
+.header{
+font-size:xx-large;
+font-family: 'Anton', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
